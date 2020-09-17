@@ -36,6 +36,7 @@ public class PointTest {
         double ex = 42.15447781671598;
         double res = Point.distance(x1, y1, x2, y2);
         Assert.assertEquals(ex, res, 0.01);
+
     }
 
 }
