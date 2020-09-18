@@ -13,6 +13,5 @@ package ru.job4j.condition;
         public static void main(String[] args) {
             Cinema.access(21);
             Cinema.access(16);
-
         }
     }
