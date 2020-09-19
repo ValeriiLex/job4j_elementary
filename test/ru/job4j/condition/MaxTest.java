@@ -24,4 +24,5 @@ public class MaxTest {
         assertThat(result, is(2));
 
     }*/
+
 }
