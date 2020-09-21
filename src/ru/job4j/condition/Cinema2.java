@@ -5,7 +5,7 @@ public class Cinema2 {
             if (allowByParent && hasMoney) {
             System.out.println("I can go to the cinema.");
         } else {
-            System.out.println("I can't.");
+             System.out.println("I can't.");
         }
     }
 
