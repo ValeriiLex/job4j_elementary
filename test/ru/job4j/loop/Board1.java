@@ -12,6 +12,7 @@ public class Board1 {
                     System.out.print(" ");
                 }
             }
+
             /* добавляем перевод на новую строку. */
             System.out.println();
         }
