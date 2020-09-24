@@ -8,7 +8,7 @@ public class FactorialTest {
     @Test
     public void whenCalculateFactorialForFiveThenOneHundreedTwenty() {
         int n = 1;
-        for (int i = 1; i <= 5; i++) {
+        for (int i = 5; i > 0; i--) {
             n = n * i;
         }
         System.out.println(n);
