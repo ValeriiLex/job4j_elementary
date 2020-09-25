@@ -14,7 +14,6 @@ public class FactorialTest {
         System.out.println(n);
     }
 
-
     @Test
     public void whenCalculateFactorialForZeroThenOne() {
         /* напишите здесь тест, проверяющий, что факториал для числа 0 равен 1. */
