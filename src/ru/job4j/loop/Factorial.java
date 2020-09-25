@@ -12,5 +12,4 @@ public class Factorial {
         int a = Factorial.calc(1);
         System.out.println(a);
     }
-
 }
