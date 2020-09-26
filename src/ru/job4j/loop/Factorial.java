@@ -2,7 +2,8 @@ package ru.job4j.loop;
 
 public class Factorial {
     public static int calc(int n) {
-           for (int i = 5; i > 0; i--) {
+
+        for (int i = 0; i <= 5; i++) {
             n = n * i;
         }
         return n;
