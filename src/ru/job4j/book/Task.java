@@ -1,7 +1,7 @@
 package ru.job4j.book;
 
-public class Task {
-        public static void mai(String[] args) {
+public  class Task {
+        public static void main(String[] args) {
         String[] wordListOne = {"круглосуточный", "трех-звенный", "фронтэнд", "динамичный", "умный", "шестой", "метод критического пути", "взаимный"};
         String[] wordListTwo = {"уполномоченный", "трудный", "центральный", "gjpbwbjybhjdfyysq", "использованный с выгодой", "выровненный", "ориентированный"};
         String[] wordLineThree = {"процесс", "тип структуры", "период времени", "образец", "талант", "подход"};
