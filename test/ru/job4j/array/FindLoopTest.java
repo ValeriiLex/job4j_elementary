@@ -18,7 +18,7 @@ public class FindLoopTest {
     @Test
     public void whenArrayHas7Then0() {
         int[] input = {5, 4, 3, 2};
-        int value = 7;
+        int value = 6;
         int result = FindLoop.indexOf(input, value);
         int expect = 3;
         assertThat(result, is(expect));
