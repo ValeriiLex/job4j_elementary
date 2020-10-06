@@ -14,7 +14,7 @@ import static org.junit.Assert.assertThat;
             assertThat(result, is(expect));
         }
 
-        @Test
+         @Test
         public void whenTurnArrayWithOddAmountOfElementsThenTurnedArray() {
             Turn turner = new Turn();
             int[] input = new int[] {1, 2, 3, 4, 5};

@@ -1,7 +1,6 @@
 package ru.job4j.array;
 
 public class Turn {
-
     public static int[] back(int[] array) {
         int net = array.length;
             for (int i = 0; i < net / 2; i++) {
