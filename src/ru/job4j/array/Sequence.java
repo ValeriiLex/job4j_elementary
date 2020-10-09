@@ -4,7 +4,7 @@ package ru.job4j.array;
 
         @SuppressWarnings("checkstyle:EmptyLineSeparator")
         public static void main(String[] args) {
-            int[][] array = new int[3][3];
+            int[][] array = new int[3][10];
             array[0][0] = 1;
             array[0][1] = 2;
             array[0][2] = 3;
@@ -14,6 +14,7 @@ package ru.job4j.array;
             array[0][6] = 7;
             array[0][7] = 8;
             array[0][8] = 9;
+            array[0][9] = 10;
 
             array[1][0] = 1;
             array[1][1] = 2;
@@ -24,6 +25,7 @@ package ru.job4j.array;
             array[1][6] = 7;
             array[1][7] = 8;
             array[1][8] = 9;
+            array[1][9] = 10;
 
             array[2][0] = 1;
             array[2][1] = 2;
@@ -34,6 +36,7 @@ package ru.job4j.array;
             array[2][6] = 7;
             array[2][7] = 8;
             array[2][8] = 9;
+            array[1][9] = 10;
 
         }
     }
