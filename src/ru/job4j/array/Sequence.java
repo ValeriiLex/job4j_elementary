@@ -37,7 +37,6 @@ package ru.job4j.array;
             array[2][7] = 8;
             array[2][8] = 9;
             array[1][9] = 10;
-
         }
     }
 
