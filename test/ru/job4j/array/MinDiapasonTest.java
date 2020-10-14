@@ -11,9 +11,9 @@ public class MinDiapasonTest {
         assertThat(
                 MinDiapason.findMin(
                         new int[] {-1, 0, 5, 10},
-                        1, 3
+                        0, 3
                 ),
-                is(0)
+                is(-1)
         );
     }
 
