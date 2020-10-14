@@ -14,7 +14,7 @@ public class Machine {
                 change = change - coins[i];
                 rsl[size] = coins[i];
                 size++;
-            break;
+
             }
         }
         return Arrays.copyOf(rsl, size);
