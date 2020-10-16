@@ -8,7 +8,7 @@ public class Defragment {
 
                 for (int i = point + 1; i < array.length; i++) {
                     if (array[i] != null) {
-                        int point1 = i;
+
                         array[point] = array[i];
                         array[i] = null;
                         break;
