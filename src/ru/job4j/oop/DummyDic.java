@@ -10,6 +10,5 @@ public class DummyDic {
         DummyDic pers = new DummyDic();
         String voice = pers.engToRus("Rock");
         System.out.println(voice);
-
     }
 }
